@@ -12,7 +12,7 @@
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Ich habe mein Programmierprojekt angefangen. Dieses Mal habe ich etwas simpler angefangen. Ich habe angefangen, indem ich eine simple "Try-Catch" frage stelle mit einer Zahl. nachdem ich das erfolgreich programmieren konnte, habe ich eine Loopfunktion eingefügt, die das Codesegment wiederholt, falls es ein Error hat. Ich habe das gemacht mit einem Wert namens "hasBug". der Code würde prüfen, ob hasBug true ist. Wenn es true ist, wird die Frage wiederholt, aber wenn es keine Fehler finden, wird der code weitergeführt. zum Schluss habe ich noch eine Ja/Nein Funktion für wortfragen einfügen können, welche aber nicht die Error Nachricht aufzeigt wenn es Fehler hat. Ich werde versuchen das zu lösen. (109)
 
 ## 19.1.2024
 
@@ -23,10 +23,10 @@
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |Die Grundrechnungsarten können für die Rechnung ausgewählt werden|Der Nutzer gibt +,-,: oder * ein, bassierend auf die Frage des Programms|Die Zahlen werden verrechnet|Nein
-| 2               |                      |                |                |          |
-| 3               |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |Die Grundrechnungsarten können für die Rechnung ausgewählt werden.|Der Nutzer gibt +,-,: oder * ein, bassierend auf die Frage des Programms.|Die Zahlen werden verrechnet.|Nein
+| 2               |Die Zahlen können im Nachhinein verändert werden.|Der Nutzer gibt Z1 oder Z2 ein bassierend auf die Frage des Programms. |Das Programmt fragt, in welche Zahl die Zahl geändert werden soll.|Nein|
+| 3               |Der Code kann am ende der Rechnung wiederholt werden|Der Nutzer drückt R (retry), wenn der Spieler vom Programm gefragt wird.|Der Code fängt von vorne an, nun mit mehr optionen.|Nein|
+| 4               |Der Spieler hat zugriff zu Quadratrechnunge.n|Der Nutzer wählt Q aus, nachdem er das Programm wiederhol.t |Die Zahl 1 wird mit der Zahl 2 als hochzahl verrechnet.|Nein|
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -34,15 +34,16 @@
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
-- [ ] Spiel endet, wenn Schlange sich selber beisst
-
-- [ ] Achtes AP
+- [ ] Kommazahlensupport.
+- [ ] Code übersichtlich machen/Beschreibung.
+- [ ] Optimisierung.
+- [ ] Easteregg (unbekannt)
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
 | 5               |                                                              |                             |                |          |
-| 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |          |
+| 6               |                                                              |                             |                |          |
+| 7               |             |          |
 | 8               |                                                              |                             |                |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
