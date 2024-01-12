@@ -6,7 +6,9 @@
 
 ## Grob-Planung
 
-Für die dritte Lern-Periode habe ich mich entschieden etwas Simpleres zu versuchen. Ich will versuchen mehrere, dafür kleinere Programme zu schreiben, damit ich die Sprache C# besser verstehen kann. Bei meinem letzten Projekt bin ich auf viele Probleme gestossen, die ich nicht beheben konnte. Ich will daher versuchen, C# Aufbau und Regeln zu lernen, so dass ich solche Probleme in der Zukunft mit logischen Anwendungen überwinden kann. C# besser zu verstehen, wird mir auch im zweiten Jahr helfen, da es dann mehr auf C# Programmierung fokussiert ist. Es wäre schlecht für mich, unvorbereitet in das zweite Jahr einzusteigen, also hoffe ich dass ich mit diesem Projekt Erfolg haben kann.
+1. In der Informatik bin ich eigentlich mit den Noten gut dran, aber trotzdem finde ich, dass ich noch nicht so gut bin in C#, wie ich es mir wünsche.
+2. Bei meinem letzten Projekt bin ich auf viele Probleme gestossen, die ich nicht beheben konnte. Ich will daher versuchen, C# Aufbau und Regeln zu lernen, so dass ich solche Probleme in der Zukunft mit logischen Anwendungen überwinden kann.
+3. Für die dritte Lern-Periode habe ich mich entschieden etwas Simpleres zu versuchen. Ich will versuchen mehrere, dafür kleinere Programme zu schreiben, damit ich die Sprache C# besser verstehen kann. C# besser zu verstehen, wird mir auch im zweiten Jahr helfen, da es dann mehr auf C# Programmierung fokussiert ist. Es wäre schlecht für mich, unvorbereitet in das zweite Jahr einzusteigen, also hoffe ich dass ich mit diesem Projekt Erfolg haben kann.
 
 ## 12.1.2024
 
