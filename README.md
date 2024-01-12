@@ -23,7 +23,7 @@
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |Die Grundrechnungsarten können für die Rechnung ausgewählt werden|Der Nutzer gibt +,-,: oder * ein, bassierend auf die Frage des Programms|Die Zahlen werden verrechnet|
+| 1               |Die Grundrechnungsarten können für die Rechnung ausgewählt werden|Der Nutzer gibt +,-,: oder * ein, bassierend auf die Frage des Programms|Die Zahlen werden verrechnet|Nein
 | 2               |                      |                |                |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
