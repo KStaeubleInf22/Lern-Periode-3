@@ -16,14 +16,16 @@
 
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Mathewerte funktionen
+- [ ] Zahlenänderung
+- [ ] wiederholbarer Code
+- [ ] Quadratrechnung
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
+| 1               |Die Grundrechnungsarten können für die Rechnung ausgewählt werden|Der Nutzer gibt +,-,: oder * ein, bassierend auf die Frage des Programms|Die Zahlen werden verrechnet|
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
