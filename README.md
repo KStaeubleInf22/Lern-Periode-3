@@ -26,7 +26,7 @@ Ich habe mein Programmierprojekt angefangen. Dieses Mal habe ich etwas simpler a
 | 1               |Die Grundrechnungsarten können für die Rechnung ausgewählt werden.|Der Nutzer gibt +,-,: oder * ein, bassierend auf die Frage des Programms.|Die Zahlen werden verrechnet.|Nein
 | 2               |Die Zahlen können im Nachhinein verändert werden.|Der Nutzer gibt Z1 oder Z2 ein bassierend auf die Frage des Programms. |Das Programmt fragt, in welche Zahl die Zahl geändert werden soll.|Nein|
 | 3               |Der Code kann am ende der Rechnung wiederholt werden|Der Nutzer drückt R (retry), wenn der Spieler vom Programm gefragt wird.|Der Code fängt von vorne an, nun mit mehr optionen.|Nein|
-| 4               |Der Spieler hat zugriff zu Quadratrechnunge.n|Der Nutzer wählt Q aus, nachdem er das Programm wiederhol.t |Die Zahl 1 wird mit der Zahl 2 als hochzahl verrechnet.|Nein|
+| 4               |Der Spieler hat zugriff zu Quadratrechnungen.|Der Nutzer wählt Q aus, nachdem er das Programm wiederhol.t |Die Zahl 1 wird mit der Zahl 2 als hochzahl verrechnet.|Nein|
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
