@@ -16,8 +16,8 @@ Ich habe mein Programmierprojekt angefangen. Dieses Mal habe ich etwas simpler a
 
 ## 19.1.2024
 
-- [ ] Mathewerte funktionen
-- [ ] Zahlenänderung
+- [X] Mathewerte funktionen
+- [X] Zahlenänderung
 - [ ] wiederholbarer Code
 - [ ] Quadratrechnung
 
@@ -32,17 +32,17 @@ Ich habe heute weiter an meinem Code gearbeitet. Ich konnte die Funktionen für 
 
 ## 26.1.2024
 
-- [ ] Kommazahlensupport.
+- [X] wiederholbarer Code
+- [X] Quadratrechnung
 - [ ] Code übersichtlich machen/Beschreibung.
-- [ ] Optimisierung.
-- [ ] Easteregg (unbekannt)
+- [X] Easteregg
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-| 5               |                                                              |                             |                |          |
-| 6               |                                                              |                             |                |          |
-| 7               |             |          |
-| 8               |                                                              |                             |                |          |
+| 5               |Der Code kann am ende der Rechnung wiederholt werden.|Am ende der Applikation, fragt das Programm, ob der spieler nochmal einen Durchgang machen will mit Ja oder Nein optionen.|Das Programm fängt wieder vom Anfang an.| Ja
+| 6               |Der Spieler hat zugriff zu Quadratrechnungen.|Bei der Auswahl für Rechnungswegen kann der Benutzer "xy" eingeben damit die Zahlen als eine Quadratrechnung ausgerechnet werden.|Zahl 1 wird so oft mich sich selbst ausgerechnet, wie der wert von der Zahl 2 ist.|Ja          |
+| 7               |Der Code wurde aufgeräumt und offentsichtlicher.|          |
+| 8               |ein Easteregg kann entdeckt werden.|Der Benutzer gibt einen spezifischen Text ein|Der Benutzer findet das Easteregg|Ja|
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
