@@ -41,7 +41,7 @@ Ich habe heute weiter an meinem Code gearbeitet. Ich konnte die Funktionen für 
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
 | 5               |Der Code kann am ende der Rechnung wiederholt werden.|Am ende der Applikation, fragt das Programm, ob der spieler nochmal einen Durchgang machen will mit Ja oder Nein optionen.|Das Programm fängt wieder vom Anfang an.| Ja
 | 6               |Der Spieler hat zugriff zu Quadratrechnungen.|Bei der Auswahl für Rechnungswegen kann der Benutzer "xy" eingeben damit die Zahlen als eine Quadratrechnung ausgerechnet werden.|Zahl 1 wird so oft mich sich selbst ausgerechnet, wie der wert von der Zahl 2 ist.|Ja          |
-| 7               |Der Code wurde aufgeräumt und offentsichtlicher.|Der Benutzer betrachtet den Code, um ein Verständnis dafür zu bekommen.| Die Codeteile haben beschreibungen, so dammit es verstäntlich ist.
+| 7               |Der Code wurde aufgeräumt und offentsichtlicher.|Der Benutzer betrachtet den Code, um ein Verständnis dafür zu bekommen.| Die Codeteile haben beschreibungen, so dammit es verstäntlich ist.| Nein|
 | 8               |ein Easteregg kann entdeckt werden.|Der Benutzer gibt einen spezifischen Text ein|Der Benutzer findet das Easteregg|Ja|
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
