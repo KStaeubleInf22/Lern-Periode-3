@@ -23,14 +23,12 @@ Ich habe mein Programmierprojekt angefangen. Dieses Mal habe ich etwas simpler a
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |Die Grundrechnungsarten können für die Rechnung ausgewählt werden.|Der Nutzer gibt +,-,: oder * ein, bassierend auf die Frage des Programms.|Die Zahlen werden verrechnet.|Nein
-| 2               |Die Zahlen können im Nachhinein verändert werden.|Der Nutzer gibt Z1 oder Z2 ein bassierend auf die Frage des Programms. |Das Programmt fragt, in welche Zahl die Zahl geändert werden soll.|Nein|
+| 1               |Die Grundrechnungsarten können für die Rechnung ausgewählt werden.|Der Nutzer gibt +,-,: oder * ein, bassierend auf die Frage des Programms.|Die Zahlen werden verrechnet.|Ja
+| 2               |Die Zahlen können im Nachhinein verändert werden.|Der Nutzer gibt Z1 oder Z2 ein bassierend auf die Frage des Programms. |Das Programmt fragt, in welche Zahl die Zahl geändert werden soll.|Ja|
 | 3               |Der Code kann am ende der Rechnung wiederholt werden|Der Nutzer drückt R (retry), wenn der Spieler vom Programm gefragt wird.|Der Code fängt von vorne an, nun mit mehr optionen.|Nein|
 | 4               |Der Spieler hat zugriff zu Quadratrechnungen.|Der Nutzer wählt Q aus, nachdem er das Programm wiederhol.t |Die Zahl 1 wird mit der Zahl 2 als hochzahl verrechnet.|Nein|
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Ich habe heute weiter an meinem Code gearbeitet. Ich konnte die Funktionen für die Verrechnungen einfügen, sowohl als auch die Zahlenänderung, aber ich konnte nicht die anderen Funktionen einfügen. Ich habe Probleme damit, die Schleife wieder zum Anfang zu führen und konnte noch nicht herausfinden, wie ich das Problem lösen könnte. Ich bin auch noch nicht dazu gekommen, Quadrat Rechnungen zu erstellen und ich werde versuchen, es in der kommenden Woche zu schaffen.(73)
 
 ## 26.1.2024
 
