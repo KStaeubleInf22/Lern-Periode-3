@@ -44,9 +44,7 @@ Ich habe heute weiter an meinem Code gearbeitet. Ich konnte die Funktionen für 
 | 7               |Der Code wurde aufgeräumt und offentsichtlicher.|Der Benutzer betrachtet den Code, um ein Verständnis dafür zu bekommen.| Die Codeteile haben beschreibungen, so dammit es verstäntlich ist.| Nein|
 | 8               |ein Easteregg kann entdeckt werden.|Der Benutzer gibt einen spezifischen Text ein|Der Benutzer findet das Easteregg|Ja|
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Die unfertigen Ziele vom vorherigen Freitag habe ich heute fertig gemacht. Ich habe zuerst an der Quadratrechnung gearbeitet. Ich habe mir zuerst überlegt, wie ich es machen könnte, bevor ich mich entschieden habe, es mit der Hilfe von einer Loop zu machen. Das hat dann erfolgreich funktioniert. Ich konnte auch noch den Wiederholungsteil programmieren. Schlussendlich konnte ich den Code fertigstellen.(60)
 
 ## 16.2.2024
 
